@@ -1,0 +1,27 @@
+/* Custom fonts for Optum Theme */
+
+@font-face {
+    font-family: 'Optum Sans';
+    src: url('../../fonts/optum/OptumSans-Regular.otf') format('otf'),
+        url('../../fonts/optum/OptumSans-Regular.ttf') format('ttf'),
+        url('../../fonts/optum/OptumSans-Regular.woff2') format('woff2'),
+        url('../../fonts/optum/OptumSans-RegularItalic.otf') format('otf'),
+        url('../../fonts/optum/OptumSans-RegularItalic.ttf') format('ttf'),
+        url('../../fonts/optum/OptumSans-RegularItalic.woff2') format('woff2');
+}
+
+/* Font weight & style applied to allow mapping to Optum Sans Bold */
+
+@font-face {
+    font-family: 'Optum Sans';
+    src: url('../../fonts/optum/OptumSans-Bold.otf') format('otf'),
+        url('./fonts/optum/OptumSans-Bold.ttf') format('ttf'),
+        url('../../fonts/optum/OptumSans-Bold.woff2') format('woff2'),
+        url('../../fonts/optum/OptumSans-BoldItalic.otf') format('otf'),
+        url('../../fonts/optum/OptumSans-BoldItalic.ttf') format('ttf'),
+        url('../../fonts/optum/OptumSans-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* End of custom fonts for Optum Theme */

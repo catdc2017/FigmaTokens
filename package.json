@@ -1,0 +1,38 @@
+{
+    "name": "@uitk/themes",
+    "version": "3.0.0-alpha.56",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npm install && node sd-build.js && npm run copy-less:optum && npm run copy-fonts:optum && npm run copy-less:uhc-solas && npm run copy-fonts:uhc-solas && npm run copy-export-cjs && npm run copy-export-esm && npm run copy-export:types && cp package.json dist ",
+        "build:types": "tsc",
+        "copy-export:types": "cp -R src/defaultExport.d.ts dist/index.d.ts",
+        "copy-export-cjs": "cp -R src/defaultExport.cjs.js dist/index.cjs.js",
+        "copy-export-esm": "cp -R src/defaultExport.esm.js dist/index.esm.js",
+        "copy-fonts:optum": "cp -R src/themes/optum/fonts dist/optum/fonts",
+        "copy-less:optum": "cp -R src/themes/optum/fonts.css dist/optum",
+        "copy-fonts:uhc-solas": "cp -R src/themes/uhc-solas/fonts dist/uhc-solas/fonts",
+        "copy-less:uhc-solas": "cp -R src/themes/uhc-solas/fonts.css dist/uhc-solas",
+        "deploy-archive": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@uitk",
+        "deploy-archive-beta": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@uitk --tag beta",
+        "deploy-archive-alpha": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@uitk --tag alpha"
+    },
+    "types": "index.d.ts",
+    "main": "index.esm.js",
+    "browser": "index.cjs.js",
+    "module": "index.esm.js",
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lodash": "^4.17.19",
+        "rimraf": "^2.6.3",
+        "style-dictionary": "^3.7.0",
+        "typescript": "^3.9.7"
+    },
+    "prettier": {
+        "trailingComma": "es5",
+        "tabWidth": 4,
+        "semi": true,
+        "singleQuote": true,
+        "printWidth": 120
+    }
+}

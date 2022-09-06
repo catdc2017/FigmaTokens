@@ -1,0 +1,454 @@
+{
+    "core": {
+        "palette": {
+            "brand": {
+                "0": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_0"
+                },
+                "5": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_5"
+                },
+                "10": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_10"
+                },
+                "20": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_20"
+                },
+                "30": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_30"
+                },
+                "40": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_40"
+                },
+                "50": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_50"
+                },
+                "60": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_60"
+                },
+                "70": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_70"
+                },
+                "80": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_80"
+                },
+                "90": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_90"
+                },
+                "100": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_100"
+                },
+                "110": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_110"
+                },
+                "120": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum_Brand_120"
+                }
+            },
+            "primary": {
+                "0": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Primary_0  - - no color in figma file"
+                },
+                "5": {
+                    "value": "#FBF9F4",
+                    "type": "color",
+                    "description": "Optum_Primary_5  - - no color in figma file"
+                },
+                "10": {
+                    "value": "#D9F6FA",
+                    "type": "color",
+                    "description": "Optum_Primary_10  - - no color in figma file"
+                },
+                "20": {
+                    "value": "#B0E3EA",
+                    "type": "color",
+                    "description": "Optum_Primary_20"
+                },
+                "30": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Primary_30  - - no color in figma file"
+                },
+                "40": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Primary_40  - - no color in figma file"
+                },
+                "50": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Primary_50  - - no color in figma file"
+                },
+                "60": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Primary_60  - - no color in figma file"
+                },
+                "70": {
+                    "value": "#0C55B8",
+                    "type": "color",
+                    "description": "Optum_Primary_70"
+                },
+                "80": {
+                    "value": "#007897",
+                    "type": "color",
+                    "description": "Optum_Primary_80"
+                },
+                "90": {
+                    "value": "#003A8D",
+                    "type": "color",
+                    "description": "Optum_Primary_90"
+                },
+                "100": {
+                    "value": "#002677",
+                    "type": "color",
+                    "description": "Optum_Primary_100"
+                },
+                "110": {
+                    "value": "#001D5B",
+                    "type": "color",
+                    "description": "Optum_Primary_110 - - no color in figma file"
+                },
+                "120": {
+                    "value": "#00184D",
+                    "type": "color",
+                    "description": "Optum_Primary_120"
+                }
+            },
+            "secondary": {
+                "0": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Secondary_0  - - no color in figma file"
+                },
+                "5": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Secondary_5  - - no color in figma file"
+                },
+                "10": {
+                    "value": "#CCF0F9",
+                    "type": "color",
+                    "description": "Optum_Secondary_10  - - no color in figma file"
+                },
+                "20": {
+                    "value": "#A5DBE9",
+                    "type": "color",
+                    "description": "Optum_Secondary_20"
+                },
+                "30": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Secondary_30  - - no color in figma file"
+                },
+                "40": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Secondary_40  - - no color in figma file"
+                },
+                "50": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Secondary_50  - - no color in figma file"
+                },
+                "60": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Optum_Secondary_60  - - no color in figma file"
+                },
+                "70": {
+                    "value": "#007897",
+                    "type": "color",
+                    "description": "Optum_Secondary_70"
+                },
+                "80": {
+                    "value": "#007897",
+                    "type": "color",
+                    "description": "Optum_Secondary_80"
+                },
+                "90": {
+                    "value": "#006783",
+                    "type": "color",
+                    "description": "Optum_Secondary_90"
+                },
+                "100": {
+                    "value": "#005469",
+                    "type": "color",
+                    "description": "Optum_Secondary_100"
+                },
+                "110": {
+                    "value": "#004759",
+                    "type": "color",
+                    "description": "Optum_Secondary_110 - - no color in figma file"
+                },
+                "120": {
+                    "value": "#003D4D",
+                    "type": "color",
+                    "description": "Optum_Secondary_120"
+                }
+            },
+            "accent": {
+                "01": {
+                    "value": "#EFE0FA",
+                    "type": "color",
+                    "description": "Optum_Accent_01"
+                },
+                "02": {
+                    "value": "#422C88",
+                    "type": "color",
+                    "description": "Optum_Accent_02"
+                },
+                "03": {
+                    "value": "#C83402",
+                    "type": "color",
+                    "description": "Optum_Accent_03"
+                },
+                "04": {
+                    "value": "#912400",
+                    "type": "color",
+                    "description": "Optum_Accent_04"
+                },
+                "05": {
+                    "value": "#30157C",
+                    "type": "color",
+                    "description": "Optum_Accent_05"
+                },
+                "06": {
+                    "value": "#30157C",
+                    "type": "color",
+                    "description": "Optum_Accent_06"
+                }
+            },
+            "neutral": {
+                "0": {
+                    "value": "#ffffff",
+                    "type": "color",
+                    "description": "Optum_Neutral_0"
+                },
+                "5": {
+                    "value": "#FAFAFA",
+                    "type": "color",
+                    "description": "Optum_Neutral_5"
+                },
+                "10": {
+                    "value": "#F2F2F2",
+                    "type": "color",
+                    "description": "Optum_Neutral_10"
+                },
+                "20": {
+                    "value": "#E5E5E6",
+                    "type": "color",
+                    "description": "Optum_Neutral_20"
+                },
+                "30": {
+                    "value": "#CBCCCD",
+                    "type": "color",
+                    "description": "Optum_Neutral_30"
+                },
+                "40": {
+                    "value": "#B1B2B4",
+                    "type": "color",
+                    "description": "Optum_Neutral_40"
+                },
+                "50": {
+                    "value": "#929496",
+                    "type": "color",
+                    "description": "Optum_Neutral_50"
+                },
+                "60": {
+                    "value": "#7D7F81",
+                    "type": "color",
+                    "description": "Optum_Neutral_60"
+                },
+                "70": {
+                    "value": "#6E7072",
+                    "type": "color",
+                    "description": "Optum_Neutral_70"
+                },
+                "80": {
+                    "value": "#4B4D4F",
+                    "type": "color",
+                    "description": "Optum_Neutral_80"
+                },
+                "90": {
+                    "value": "#323334",
+                    "type": "color",
+                    "description": "Optum_Neutral_90"
+                },
+                "100": {
+                    "value": "#212223",
+                    "type": "color",
+                    "description": "Optum_Neutral_100"
+                },
+                "110": {
+                    "value": "#19191A",
+                    "type": "color",
+                    "description": "Optum_Neutral_110"
+                },
+                "120": {
+                    "value": "#000000",
+                    "type": "color",
+                    "description": "Optum_Neutral_120"
+                }
+            },
+            "success": {
+                "5": {
+                    "value": "#EFF6EF",
+                    "type": "color",
+                    "description": "Optum_Semantic_Success_5"
+                },
+                "10": {
+                    "value": "#EFF6EF",
+                    "type": "color",
+                    "description": "Optum_Semantic_Success_10"
+                },
+                "20": {
+                    "value": "#EFF6EF",
+                    "type": "color",
+                    "description": "Optum_Semantic_Success_20"
+                },
+                "70": {
+                    "value": "#007000",
+                    "type": "color",
+                    "description": "Optum_Semantic_Success_70 - - no color in figma file"
+                },
+                "90": {
+                    "value": "#EFF6EF",
+                    "type": "color",
+                    "description": "Optum_Semantic_Success_90"
+                },
+                "100": {
+                    "value": "#EFF6EF",
+                    "type": "color",
+                    "description": "Optum_Semantic_Success_100"
+                }
+            },
+            "danger": {
+                "5": {
+                    "value": "#FCF0F0",
+                    "type": "color",
+                    "description": "Optum_Semantic_Danger_5"
+                },
+                "10": {
+                    "value": "#FCF0F0",
+                    "type": "color",
+                    "description": "Optum_Semantic_Danger_10"
+                },
+                "20": {
+                    "value": "#FCF0F0",
+                    "type": "color",
+                    "description": "Optum_Semantic_Danger_20"
+                },
+                "70": {
+                    "value": "#C40000",
+                    "type": "color",
+                    "description": "Optum_Semantic_Danger_70 - no color in figma file"
+                },
+                "90": {
+                    "value": "#FCF0F0",
+                    "type": "color",
+                    "description": "Optum_Semantic_Danger_90"
+                },
+                "100": {
+                    "value": "#FCF0F0",
+                    "type": "color",
+                    "description": "Optum_Semantic_Danger_100"
+                }
+            },
+            "warning": {
+                "5": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Warning_5"
+                },
+                "10": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Warning_10"
+                },
+                "20": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Warning_20"
+                },
+                "70": {
+                    "value": "#F5B700",
+                    "type": "color",
+                    "description": "Optum_Semantic_Warning_70 - - no color in figma file"
+                },
+                "90": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Warning_90"
+                },
+                "100": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Warning_100"
+                }
+            },
+            "info": {
+                "5": {
+                    "value": "#E5F8FB",
+                    "type": "color",
+                    "description": "Optum_Semantic_Info_5"
+                },
+                "10": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Info_10"
+                },
+                "20": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Info_20"
+                },
+                "70": {
+                    "value": "#002677",
+                    "type": "color",
+                    "description": "Optum_Semantic_Info_70 - - no color in figma file"
+                },
+                "90": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Info_90"
+                },
+                "100": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum_Semantic_Info_100"
+                }
+            }
+        }
+    }
+}

@@ -1,2 +1,0 @@
-# FigmaTokens
-Figma Token Structure
