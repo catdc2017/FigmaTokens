@@ -1,0 +1,454 @@
+{
+    "core": {
+        "color": {
+            "brand": {
+                "0": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 0"
+                },
+                "5": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 20"
+                },
+                "30": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 30"
+                },
+                "40": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 40"
+                },
+                "50": {
+                    "value": "#FF612B",
+                    "type": "color",
+                    "description": "Optum Brand 50"
+                },
+                "60": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 60"
+                },
+                "70": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 70"
+                },
+                "80": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 80"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 100"
+                },
+                "110": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 110"
+                },
+                "120": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Brand 120"
+                }
+            },
+            "primary": {
+                "0": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Primary 0"
+                },
+                "5": {
+                    "value": "#FBF9F4",
+                    "type": "color",
+                    "description": "Optum Primary 5"
+                },
+                "10": {
+                    "value": "#D9F6FA",
+                    "type": "color",
+                    "description": "Optum Primary 10"
+                },
+                "20": {
+                    "value": "#B0E3EA",
+                    "type": "color",
+                    "description": "Optum Primary 20"
+                },
+                "30": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Primary 30"
+                },
+                "40": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Primary 40"
+                },
+                "50": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Primary 50"
+                },
+                "60": {
+                    "value": "#196ECF",
+                    "type": "color",
+                    "description": "Optum Primary 60"
+                },
+                "70": {
+                    "value": "#0C55B8",
+                    "type": "color",
+                    "description": "Optum Primary 70"
+                },
+                "80": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Primary 80"
+                },
+                "90": {
+                    "value": "#003A8D",
+                    "type": "color",
+                    "description": "Optum Primary 90"
+                },
+                "100": {
+                    "value": "#002677",
+                    "type": "color",
+                    "description": "Optum Primary 100"
+                },
+                "110": {
+                    "value": "#001D5B",
+                    "type": "color",
+                    "description": "Optum Primary 110"
+                },
+                "120": {
+                    "value": "#00184D",
+                    "type": "color",
+                    "description": "Optum Primary 120"
+                }
+            },
+            "secondary": {
+                "0": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 0"
+                },
+                "5": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 20"
+                },
+                "30": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 30"
+                },
+                "40": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 40"
+                },
+                "50": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 50"
+                },
+                "60": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 60"
+                },
+                "70": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 70"
+                },
+                "80": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 80"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 100"
+                },
+                "110": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 110"
+                },
+                "120": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Secondary 120"
+                }
+            },
+            "accent": {
+                "01": {
+                    "value": "#EFE0FA",
+                    "type": "color",
+                    "description": "Optum Accent 01"
+                },
+                "02": {
+                    "value": "#422C88",
+                    "type": "color",
+                    "description": "Optum Accent 02"
+                },
+                "03": {
+                    "value": "#C83402",
+                    "type": "color",
+                    "description": "Optum Accent 03"
+                },
+                "04": {
+                    "value": "#912400",
+                    "type": "color",
+                    "description": "Optum Accent 04"
+                },
+                "05": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Accent 05"
+                },
+                "06": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Accent 06"
+                }
+            },
+            "neutral": {
+                "0": {
+                    "value": "#FFFFFF",
+                    "type": "color",
+                    "description": "Optum Neutral 0"
+                },
+                "5": {
+                    "value": "#FAFAFA",
+                    "type": "color",
+                    "description": "Optum Neutral 5"
+                },
+                "10": {
+                    "value": "#F3F3F3",
+                    "type": "color",
+                    "description": "Optum Neutral 10"
+                },
+                "20": {
+                    "value": "#E5E5E6",
+                    "type": "color",
+                    "description": "Optum Neutral 20"
+                },
+                "30": {
+                    "value": "#CBCCCD",
+                    "type": "color",
+                    "description": "Optum Neutral 30"
+                },
+                "40": {
+                    "value": "#B1B2B4",
+                    "type": "color",
+                    "description": "Optum Neutral 40"
+                },
+                "50": {
+                    "value": "#929496",
+                    "type": "color",
+                    "description": "Optum Neutral 50"
+                },
+                "60": {
+                    "value": "#7D7F81",
+                    "type": "color",
+                    "description": "Optum Neutral 60"
+                },
+                "70": {
+                    "value": "#6D6F70",
+                    "type": "color",
+                    "description": "Optum Neutral 70"
+                },
+                "80": {
+                    "value": "#4B4D4F",
+                    "type": "color",
+                    "description": "Optum Neutral 80"
+                },
+                "90": {
+                    "value": "#323334",
+                    "type": "color",
+                    "description": "Optum Neutral 90"
+                },
+                "100": {
+                    "value": "#212223",
+                    "type": "color",
+                    "description": "Optum Neutral 100"
+                },
+                "110": {
+                    "value": "25, 25, 26",
+                    "type": "color",
+                    "description": "Optum Neutral 110"
+                },
+                "120": {
+                    "value": "#000000",
+                    "type": "color",
+                    "description": "Optum Neutral 120"
+                }
+            },
+            "success": {
+                "5": {
+                    "value": "#EFF6EF",
+                    "type": "color",
+                    "description": "Optum Semantic Success 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Success 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Success 20"
+                },
+                "70": {
+                    "value": "#007000",
+                    "type": "color",
+                    "description": "Optum Semantic Success 70"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Success 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Success 100"
+                }
+            },
+            "danger": {
+                "5": {
+                    "value": "#FCF0F0",
+                    "type": "color",
+                    "description": "Optum Semantic Danger 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Danger 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Danger 20"
+                },
+                "70": {
+                    "value": "#C40000",
+                    "type": "color",
+                    "description": "Optum Semantic Danger 70"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Danger 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Danger 100"
+                }
+            },
+            "warning": {
+                "5": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Optum Semantic Warning 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Warning 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Warning 20"
+                },
+                "70": {
+                    "value": "#F5B700",
+                    "type": "color",
+                    "description": "Optum Semantic Warning 70"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Warning 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Warning 100"
+                }
+            },
+            "info": {
+                "5": {
+                    "value": "#E5F8FB",
+                    "type": "color",
+                    "description": "Optum Semantic Info 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Info 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Info 20"
+                },
+                "70": {
+                    "value": "#002677",
+                    "type": "color",
+                    "description": "Optum Semantic Info 70"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Info 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Optum Semantic Info 100"
+                }
+            }
+        }
+    }
+}

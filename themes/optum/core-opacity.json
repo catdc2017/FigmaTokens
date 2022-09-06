@@ -1,0 +1,61 @@
+{
+    "core": {
+        "opacity": {
+            "0": {
+                "value": "0",
+                "type": "opacity",
+                "description": "Optum opacity 1"
+            },
+            "1": {
+                "value": ".05",
+                "type": "opacity",
+                "description": "Optum opacity 1"
+            },
+            "2": {
+                "value": ".1",
+                "type": "opacity",
+                "description": "Optum opacity 2"
+            },
+            "3": {
+                "value": ".15",
+                "type": "opacity",
+                "description": "Optum opacity 3"
+            },
+            "4": {
+                "value": ".25",
+                "type": "opacity",
+                "description": "Optum opacity 4"
+            },
+            "5": {
+                "value": ".35",
+                "type": "opacity",
+                "description": "Optum opacity 5"
+            },
+            "6": {
+                "value": ".55",
+                "type": "opacity",
+                "description": "Optum opacity 6"
+            },
+            "7": {
+                "value": ".75",
+                "type": "opacity",
+                "description": "Optum opacity 7"
+            },
+            "8": {
+                "value": ".85",
+                "type": "opacity",
+                "description": "Optum opacity 8"
+            },
+            "9": {
+                "value": ".9",
+                "type": "opacity",
+                "description": "Optum opacity 9"
+            },
+            "10": {
+                "value": "1",
+                "type": "opacity",
+                "description": "Optum opacity 10"
+            }
+        }
+    }
+}

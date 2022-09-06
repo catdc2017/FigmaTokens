@@ -1,0 +1,84 @@
+{
+    "color": {
+        "text": {
+            "heading": {
+                "h1": {
+                    "value": "{core.color.primary.100}",
+                    "type": "color",
+                    "description": "UHC color h1"
+                },
+                "h2": {
+                    "value": "{core.color.primary.100}",
+                    "type": "color",
+                    "description": "UHC color h1"
+                },
+                "h3": {
+                    "value": "{core.color.primary.100}",
+                    "type": "color",
+                    "description": "UHC color h1"
+                },
+                "h4": {
+                    "value": "{core.color.neutral.90}",
+                    "type": "color",
+                    "description": "UHC color h1"
+                },
+                "h5": {
+                    "value": "{core.color.neutral.90}",
+                    "type": "color",
+                    "description": "UHC color h1"
+                },
+                "h6": {
+                    "value": "{core.color.neutral.90}",
+                    "type": "color",
+                    "description": "UHC color h1"
+                }
+            },
+            "body": {
+                "base": {
+                    "value": "{core.color.neutral.90}",
+                    "type": "color",
+                    "description": "UHC color body"
+                }
+            },
+            "link": {
+                "base": {
+                    "value": "{core.color.primary.70}",
+                    "description": "Primary link color",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "{core.color.primary.90}",
+                    "description": "Primary link press color",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "{core.color.primary.100}",
+                    "description": "Primary link press color",
+                    "type": "color"
+                },
+                "focus": {
+                    "value": "{core.color.primary.70}",
+                    "description": "Primary link visited color",
+                    "type": "color"
+                },
+                "visited": {
+                    "value": "{core.color.primary.70}",
+                    "description": "Primary link visited color",
+                    "type": "color"
+                }
+            }
+        },
+        "focus": {
+            "base": {
+                "value": "{core.color.primary.100}",
+                "description": "Focus base color",
+                "type": "color"
+            },
+            "inverse": {
+                "value": "{core.color.neutral.0}",
+                "description": "Focus inverse color",
+                "type": "color"
+            }
+        }
+    }
+}

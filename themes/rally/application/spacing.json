@@ -1,0 +1,91 @@
+{
+    "spacing": {
+        "h1": {
+            "value": "{core.spacing.0} {core.spacing.0} {core.spacing.4} {core.spacing.0}",
+            "type": "spacing",
+            "description": "Rally spacing h1"
+        },
+        "h2": {
+            "value": "{core.spacing.0} {core.spacing.0} {core.spacing.4} {core.spacing.0}",
+            "type": "spacing",
+            "description": "Rally spacing h2"
+        },
+        "h3": {
+            "value": "{core.spacing.0} {core.spacing.0} {core.spacing.4} {core.spacing.0}",
+            "type": "spacing",
+            "description": "Rally spacing h3"
+        },
+        "h4": {
+            "value": "{core.spacing.0} {core.spacing.0} {core.spacing.3} {core.spacing.0}",
+            "type": "spacing",
+            "description": "Rally spacing h4"
+        },
+        "h5": {
+            "value": "{core.spacing.0} {core.spacing.0} {core.spacing.3} {core.spacing.0}",
+            "type": "spacing",
+            "description": "Rally spacing h5"
+        },
+        "h6": {
+            "value": "{core.spacing.0} {core.spacing.0} {core.spacing.3} {core.spacing.0}",
+            "type": "spacing",
+            "description": "Rally spacing h6"
+        },
+        "base": {
+            "value": "{core.spacing.3}",
+            "type": "spacing",
+            "description": "Rally spacing base"
+        },
+        "hero": {
+            "value": "{core.spacing.8}",
+            "type": "spacing",
+            "description": "Rally spacing hero"
+        },
+        "xxs": {
+            "value": "{core.spacing.0}",
+            "type": "spacing",
+            "description": "Rally spacing xxs"
+        },
+        "xs": {
+            "value": "{core.spacing.1}",
+            "type": "spacing",
+            "description": "Rally spacing xs"
+        },
+        "s": {
+            "value": "{core.spacing.2}",
+            "type": "spacing",
+            "description": "Rally spacing s"
+        },
+        "m": {
+            "value": "{core.spacing.4}",
+            "type": "spacing",
+            "description": "Rally spacing m"
+        },
+        "l": {
+            "value": "{core.spacing.5}",
+            "type": "spacing",
+            "description": "Rally spacing l"
+        },
+        "xl": {
+            "value": "{core.spacing.6}",
+            "type": "spacing",
+            "description": "Rally spacing xl"
+        },
+        "xxl": {
+            "value": "{core.spacing.7}",
+            "type": "spacing",
+            "description": "Rally spacing xxl"
+        },
+        "body": {
+            "group": {
+                "value": "{core.spacing.0} {core.spacing.0} {core.spacing.6} {core.spacing.0}",
+                "type": "spacing",
+                "description": "Rally spacing body group"
+            },
+            "body": {
+                "value": "{core.spacing.0} {core.spacing.0} {core.spacing.3} {core.spacing.0}",
+                "type": "spacing",
+                "description": "Rally spacing body paragraph"
+            }
+        }
+    }
+}

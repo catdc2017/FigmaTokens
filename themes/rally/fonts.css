@@ -1,0 +1,22 @@
+/* Custom fonts for Rally Theme */
+/* Should be Helvetica Neue but Helvetica used until licence key retrieved for the Rally Theme */
+
+@font-face {
+    font-family: 'Rally';
+    src: url('/fonts/rally/Helvetica.tts') format('ttf'),
+        /* Safari, Android, iOS and most browsers */ url('/fonts/rally/helvetica-compressed.otf'),
+        /* Safari, Android, iOS and most browsers */ url('/fonts/rally/helvetica-light.ttf') format('ttf'),
+        /* Safari, Android, iOS and most browsers */ url('/fonts/rally/Helvetica-Oblique.ttf') format('ttf');
+}
+
+/* Font weight & style applied to allow mapping to UHC Sans Bold */
+
+@font-face {
+    font-family: 'Rally';
+    src: url('/fonts/rally/Helvetica-BoldOblique.ttf') format('ttf'),
+        url('/fonts/rally/Helvetica-BoldOblique.ttf') format('ttf'), url('/fonts/rally/helvetica-rounded-bold.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* End of custom fonts for Rally Theme */

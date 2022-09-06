@@ -1,0 +1,470 @@
+{
+    "button": {
+        "color": {
+            "primary": {
+                "default": {
+                    "value": "{core.color.primary.70}",
+                    "description": "Primary brand background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "{core.color.primary.90}",
+                    "description": "Primary brand background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "{core.color.primary.110}",
+                    "description": "Primary brand background color used for buttons and interactions",
+                    "type": "color"
+                }
+            },
+            "primaryInverse": {
+                "default": {
+                    "value": "{core.color.neutral.0}",
+                    "description": "Primary inverse background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "{core.color.neutral.10}",
+                    "description": "Primary inverse background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "{core.color.neutral.20}",
+                    "description": "Primary inverse background color used for buttons and interactions",
+                    "type": "color"
+                }
+            },
+            "secondary": {
+                "default": {
+                    "value": "{core.color.neutral.0}",
+                    "description": "Secondary brand background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "{core.color.neutral.10}",
+                    "description": "Secondary brand background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "{core.color.neutral.20}",
+                    "description": "Secondary brand background color used for buttons and interactions",
+                    "type": "color"
+                }
+            },
+            "secondaryInverse": {
+                "default": {
+                    "value": "rgba({core.color.neutral.110}, {core.opacity.0})",
+                    "description": "Secondary inverse background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "rgba({core.color.neutral.110}, {core.opacity.3})",
+                    "description": "Secondary inverse background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "rgba({core.color.neutral.110}, {core.opacity.4})",
+                    "description": "Secondary inverse background color used for buttons and interactions",
+                    "type": "color"
+                }
+            },
+            "tertiary": {
+                "default": {
+                    "value": "{core.color.neutral.0}",
+                    "description": "Tertiary brand background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "{core.color.neutral.10}",
+                    "description": "Tertiary  brand background color used for buttons and interactions",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "{core.color.neutral.20}",
+                    "description": "Tertiary  brand background color used for buttons and interactions",
+                    "type": "color"
+                }
+            },
+            "text": {
+                "primary": {
+                    "default": {
+                        "value": "{core.color.neutral.0}",
+                        "description": "Primary brand background color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.0}",
+                        "description": "Primary text color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.0}",
+                        "description": "Primary text color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "primaryInverse": {
+                    "default": {
+                        "value": "{core.color.neutral.70}",
+                        "description": "Primary inverse text color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.110}",
+                        "description": "Primary inverse brand background color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.120}",
+                        "description": "Primary inverse brand background color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "secondary": {
+                    "default": {
+                        "value": "{core.color.neutral.70}",
+                        "description": "Secondary text color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.110}",
+                        "description": "Secondary text color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.120}",
+                        "description": "Secondary text color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "secondaryInverse": {
+                    "default": {
+                        "value": "{core.color.neutral.0}",
+                        "description": "Secondary inverse color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.0}",
+                        "description": "Secondary inverse color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.0}",
+                        "description": "Secondary inverse color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "tertiary": {
+                    "default": {
+                        "value": "{core.color.neutral.90}",
+                        "description": "Tertiary inverse color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.110}",
+                        "description": "Tertiary inverse color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.90}",
+                        "description": "Tertiary inverse color used for buttons and interactions",
+                        "type": "color"
+                    }
+                }
+            },
+            "border": {
+                "primary": {
+                    "default": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Primary border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Primary border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Primary border color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "primaryInverse": {
+                    "default": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Primary inverse border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Primary inverse border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Primary inverse border color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "secondary": {
+                    "default": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Secondary border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Secondary border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Secondary border color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "secondaryInverse": {
+                    "default": {
+                        "value": "{core.color.neutral.0}",
+                        "description": "Secondary inverse border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Secondary inverse border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Secondary inverse border color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "tertiary": {
+                    "default": {
+                        "value": "{core.color.neutral.90}",
+                        "description": "Tertiary border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Tertiary border color used for buttons and interactions",
+                        "type": "color"
+                    },
+                    "active": {
+                        "value": "{core.color.primary.100}",
+                        "description": "Tertiary border color used for buttons and interactions",
+                        "type": "color"
+                    }
+                },
+                "focus": {
+                    "value": "{core.color.primary.100}",
+                    "description": "Tertiary border color used for buttons and interactions",
+                    "type": "color"
+                },
+                "focusInner": {
+                    "value": "{core.color.primary.100}",
+                    "description": "Tertiary border color used for buttons and interactions",
+                    "type": "color"
+                }
+            },
+            "disabled": {
+                "value": "{core.color.neutral.10}",
+                "description": "Disabled color used for buttons and interactions",
+                "type": "color"
+            }
+        },
+        "border": {
+            "width": {
+                "base": {
+                    "value": "{core.border.width.1}",
+                    "description": "Button border width base",
+                    "type": "color"
+                },
+                "focus": {
+                    "value": "{core.border.width.5}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                },
+                "focusInner": {
+                    "value": "{core.border.width.2}",
+                    "description": "Button border width inner",
+                    "type": "color"
+                }
+            },
+            "radius": {
+                "base": {
+                    "value": "{core.border.radius.9}",
+                    "description": "Button border radius base",
+                    "type": "color"
+                },
+                "s": {
+                    "value": "{core.border.radius.6}",
+                    "description": "Button border radius small",
+                    "type": "color"
+                },
+                "m": {
+                    "value": "{core.border.radius.7}",
+                    "description": "Button border radius medium",
+                    "type": "color"
+                },
+                "l": {
+                    "value": "{core.border.radius.8}",
+                    "description": "Button border radius large",
+                    "type": "color"
+                }
+            }
+        },
+        "radius": {
+            "base": {
+                "value": "{core.border.radius.9}",
+                "description": "Button border radius base",
+                "type": "color"
+            },
+            "s": {
+                "value": "{core.border.radius.6}",
+                "description": "Button border radius small",
+                "type": "color"
+            },
+            "m": {
+                "value": "{core.border.radius.7}",
+                "description": "Button border radius medium",
+                "type": "color"
+            },
+            "l": {
+                "value": "{core.border.radius.8}",
+                "description": "Button border radius large",
+                "type": "color"
+            }
+        },
+        "boxshadow": {
+            "primaryInverse": {
+                "default": {
+                    "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner}, {button.color.border.focusInner}",
+                    "description": "Button border width base",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner}, {button.color.border.focusInner}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                }
+            },
+            "secondary": {
+                "default": {
+                    "value": "0 0 0 {button.border.width.base} {button.color.secondary.default}",
+                    "description": "Button border width base",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "0 0 0 {button.border.width.base} {button.color.secondary.hover}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "0 0 0 {button.border.width.base} {button.color.secondary.active}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                }
+            },
+            "secondaryInverse": {
+                "default": {
+                    "value": "0 0 0 {button.border.width.base} {button.color.secondaryInverse.default}",
+                    "description": "Button border width base",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "0 0 0 {button.border.width.base} {button.color.secondaryInverse.hover}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "0 0 0 {button.border.width.base} {button.color.secondaryInverse.active}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                }
+            },
+            "tertiary": {
+                "default": {
+                    "value": "0 0 0 {button.border.width.base} {button.color.tertiary.default}",
+                    "description": "Button border width base",
+                    "type": "color"
+                },
+                "hover": {
+                    "value": "0 0 0 {button.border.width.focus} {button.color.border.focus}, 0 0 0 {button.border.width.focusInner} {button.color.border.focusInner}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                },
+                "active": {
+                    "value": "0 0 0 {button.border.width.focus} {button.color.border.focus}, 0 0 0 {button.border.width.focusInner} {button.color.border.focusInner}",
+                    "description": "Button border width focus",
+                    "type": "color"
+                }
+            },
+            "focus": {
+                "primary": {
+                    "default": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner} {button.color.border.focusInner}",
+                        "description": "Button border width base",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner} {button.color.border.focusInner}",
+                        "description": "Button border width focus",
+                        "type": "color"
+                    }
+                },
+                "primaryInverse": {
+                    "default": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus}",
+                        "description": "Button border width base",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus}, 0 0 0 {button.border.width.focusInner} {button.color.border.focusInner}",
+                        "description": "Button border width focus",
+                        "type": "color"
+                    }
+                },
+                "secondary": {
+                    "default": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner}, {button.color.border.focusInner}",
+                        "description": "Button border width base",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner}, {button.color.border.focusInner}",
+                        "description": "Button border width focus",
+                        "type": "color"
+                    }
+                },
+                "secondaryInverse": {
+                    "default": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus}, 0 0 0 {button.border.width.base} {button.color.border.focus}",
+                        "description": "Button border width base",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus}, 0 0 0 {button.border.width.base} {button.color.border.secondaryInverse.hover}",
+                        "description": "Button border width focus",
+                        "type": "color"
+                    }
+                },
+                "tertiary": {
+                    "default": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner}, {button.color.border.focusInner}",
+                        "description": "Button border width base",
+                        "type": "color"
+                    },
+                    "hover": {
+                        "value": "0 0 0 {button.border.width.focus} {button.color.border.focus},  0 0 0 {button.border.width.focusInner}, {button.color.border.focusInner}",
+                        "description": "Button border width focus",
+                        "type": "color"
+                    }
+                }
+            }
+        }
+    }
+}

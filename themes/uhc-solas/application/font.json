@@ -1,0 +1,254 @@
+{
+    "font": {
+        "family": {
+            "h1": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font h1"
+            },
+            "h2": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font h2"
+            },
+            "h3": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font h3"
+            },
+            "h4": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font h4"
+            },
+            "h5": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font h5"
+            },
+            "h6": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font h6"
+            },
+            "body": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font body"
+            },
+            "small": {
+                "value": "{core.font.family.serif}",
+                "type": "fontFamily",
+                "description": "UHC font small"
+            }
+        },
+        "size": {
+            "h1": {
+                "value": "{core.font.size.10}",
+                "type": "fontSize",
+                "description": "UHC font size h1"
+            },
+            "h2": {
+                "value": "{core.font.size.9}",
+                "type": "fontSize",
+                "description": "UHC font size h2"
+            },
+            "h3": {
+                "value": "{core.font.size.8}",
+                "type": "fontSize",
+                "description": "UHC font size h3"
+            },
+            "h4": {
+                "value": "{core.font.size.7}",
+                "type": "fontSize",
+                "description": "UHC font size h4"
+            },
+            "h5": {
+                "value": "{core.font.size.6}",
+                "type": "fontSize",
+                "description": "UHC font size h5"
+            },
+            "h6": {
+                "value": "{core.font.size.5}",
+                "type": "fontSize",
+                "description": "UHC font size h6"
+            },
+            "base": {
+                "value": "{core.font.size.3}",
+                "type": "fontSize",
+                "description": "UHC font size base"
+            },
+            "hero": {
+                "value": "{core.font.size.9}",
+                "type": "fontSize",
+                "description": "UHC font size hero"
+            },
+            "xs": {
+                "value": "{core.font.size.1}",
+                "type": "fontSize",
+                "description": "UHC font size xs"
+            },
+            "s": {
+                "value": "{core.font.size.2}",
+                "type": "fontSize",
+                "description": "UHC font size s"
+            },
+            "m": {
+                "value": "{core.font.size.4}",
+                "type": "fontSize",
+                "description": "UHC font size m"
+            },
+            "l": {
+                "value": "{core.font.size.5}",
+                "type": "fontSize",
+                "description": "UHC font size l"
+            },
+            "xl": {
+                "value": "{core.font.size.6}",
+                "type": "fontSize",
+                "description": "UHC font size xl"
+            }
+        },
+        "lineHeight": {
+            "h1": {
+                "value": "{core.font.lineHeight.10}",
+                "type": "lineHeight",
+                "description": "UHC line height h1"
+            },
+            "h2": {
+                "value": "{core.font.lineHeight.9}",
+                "type": "lineHeight",
+                "description": "UHC line height h2"
+            },
+            "h3": {
+                "value": "{core.font.lineHeight.8}",
+                "type": "lineHeight",
+                "description": "UHC line height h3"
+            },
+            "h4": {
+                "value": "{core.font.lineHeight.7}",
+                "type": "lineHeight",
+                "description": "UHC line height h4"
+            },
+            "h5": {
+                "value": "{core.font.lineHeight.6}",
+                "type": "lineHeight",
+                "description": "UHC line height h5"
+            },
+            "h6": {
+                "value": "{core.font.lineHeight.5}",
+                "type": "lineHeight",
+                "description": "UHC line height h6"
+            },
+            "base": {
+                "value": "{core.font.lineHeight.3}",
+                "type": "lineHeight",
+                "description": "UHC line height base"
+            },
+            "hero": {
+                "value": "{core.font.lineHeight.10}",
+                "type": "lineHeight",
+                "description": "UHC line height hero"
+            },
+            "xs": {
+                "value": "{core.font.lineHeight.1}",
+                "type": "lineHeight",
+                "description": "UHC line height xs"
+            },
+            "s": {
+                "value": "{core.font.lineHeight.2}",
+                "type": "lineHeight",
+                "description": "UHC line height s"
+            },
+            "m": {
+                "value": "{core.font.lineHeight.4}",
+                "type": "lineHeight",
+                "description": "UHC line height m"
+            },
+            "l": {
+                "value": "{core.font.lineHeight.5}",
+                "type": "lineHeight",
+                "description": "UHC line height l"
+            },
+            "xl": {
+                "value": "{core.font.lineHeight.6}",
+                "type": "lineHeight",
+                "description": "UHC line height xl"
+            }
+        },
+        "weight": {
+            "h1": {
+                "value": "{core.font.weight.4}",
+                "type": "fontWeight",
+                "description": "UHC font weight h1"
+            },
+            "h2": {
+                "value": "{core.font.weight.4}",
+                "type": "fontWeight",
+                "description": "UHC font weight h2"
+            },
+            "h3": {
+                "value": "{core.font.weight.4}",
+                "type": "fontWeight",
+                "description": "UHC font weight h3"
+            },
+            "h4": {
+                "value": "{core.font.weight.4}",
+                "type": "fontWeight",
+                "description": "UHC font weight h4"
+            },
+            "h5": {
+                "value": "{core.font.weight.4}",
+                "type": "fontWeight",
+                "description": "UHC font weight h5"
+            },
+            "h6": {
+                "value": "{core.font.weight.4}",
+                "type": "fontWeight",
+                "description": "UHC font weight h6"
+            },
+            "light": {
+                "value": "{core.font.weight.1}",
+                "type": "fontWeight",
+                "description": "UHC font weight light"
+            },
+            "base": {
+                "value": "{core.font.weight.2}",
+                "type": "fontWeight",
+                "description": "UHC font weight base"
+            },
+            "medium": {
+                "value": "{core.font.weight.3}",
+                "type": "fontWeight",
+                "description": "UHC font weight medium"
+            },
+            "strong": {
+                "value": "{core.font.weight.4}",
+                "type": "fontWeight",
+                "description": "UHC font weight strong"
+            }
+        },
+        "decoration": {
+            "none": {
+                "value": "{core.font.decoration.none}",
+                "type": "fontDecoration",
+                "description": "UHC font decoration none"
+            },
+            "underline": {
+                "value": "{core.font.decoration.underline}",
+                "type": "fontDecoration",
+                "description": "UHC font decoration underline"
+            },
+            "overline": {
+                "value": "{core.font.decoration.overline}",
+                "type": "fontDecoration",
+                "description": "UHC font decoration overline"
+            },
+            "linethrough": {
+                "value": "{core.font.decoration.linethrough}",
+                "type": "fontDecoration",
+                "description": "UHC font decoration line-through"
+            }
+        }
+    }
+}

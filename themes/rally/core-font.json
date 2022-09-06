@@ -1,0 +1,166 @@
+{
+    "core": {
+        "font": {
+            "family": {
+                "sans": {
+                    "value": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+                    "type": "fontFamily",
+                    "description": "Rally sans-serif font"
+                },
+                "serif": {
+                    "value": "'Helvetica Neue', Georgia, serif",
+                    "type": "fontFamily",
+                    "description": "Rally serif font"
+                }
+            },
+            "size": {
+                "1": {
+                    "value": ".75rem",
+                    "type": "size",
+                    "description": "Rally font size 1"
+                },
+                "2": {
+                    "value": ".875rem",
+                    "type": "size",
+                    "description": "Rally font size 2"
+                },
+                "3": {
+                    "value": "1rem",
+                    "type": "size",
+                    "description": "Rally font size 3"
+                },
+                "4": {
+                    "value": "1.125rem",
+                    "type": "size",
+                    "description": "Rally font size 4"
+                },
+                "5": {
+                    "value": "1.25rem",
+                    "type": "size",
+                    "description": "Rally font size 5"
+                },
+                "6": {
+                    "value": "1.438rem",
+                    "type": "size",
+                    "description": "Rally font size 6"
+                },
+                "7": {
+                    "value": "1.625rem",
+                    "type": "size",
+                    "description": "Rally font size 7"
+                },
+                "8": {
+                    "value": "1.813rem",
+                    "type": "size",
+                    "description": "Rally font size 8"
+                },
+                "9": {
+                    "value": "2rem",
+                    "type": "size",
+                    "description": "Rally font size 9"
+                },
+                "10": {
+                    "value": "2.25rem",
+                    "type": "size",
+                    "description": "Rally font size 10"
+                }
+            },
+            "weight": {
+                "1": {
+                    "value": "400",
+                    "type": "size",
+                    "description": "Rally font weight 1"
+                },
+                "2": {
+                    "value": "500",
+                    "type": "size",
+                    "description": "Rally font weight 2"
+                },
+                "3": {
+                    "value": "600",
+                    "type": "size",
+                    "description": "Rally font weight 3"
+                },
+                "4": {
+                    "value": "700",
+                    "type": "size",
+                    "description": "Rally font weight 4"
+                }
+            },
+            "lineHeight": {
+                "1": {
+                    "value": "1rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 1"
+                },
+                "2": {
+                    "value": "1.125rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 2"
+                },
+                "3": {
+                    "value": "1.25rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 3"
+                },
+                "4": {
+                    "value": "1.5rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 4"
+                },
+                "5": {
+                    "value": "1.75rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 5"
+                },
+                "6": {
+                    "value": "2rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 6"
+                },
+                "7": {
+                    "value": "2.25rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 7"
+                },
+                "8": {
+                    "value": "2.5rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 8"
+                },
+                "9": {
+                    "value": "2.75rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 9"
+                },
+                "10": {
+                    "value": "3rem",
+                    "type": "lineHeight",
+                    "description": "Rally line height 10"
+                }
+            },
+            "decoration": {
+                "none": {
+                    "value": "none",
+                    "type": "fontDecoration",
+                    "description": "Rally font decoration none"
+                },
+                "underline": {
+                    "value": "underline",
+                    "type": "fontDecoration",
+                    "description": "Rally font decoration underline"
+                },
+                "overline": {
+                    "value": "overline",
+                    "type": "fontDecoration",
+                    "description": "Rally font decoration overline"
+                },
+                "linethrough": {
+                    "value": "line-through",
+                    "type": "fontDecoration",
+                    "description": "Rally font decoration line-through"
+                }
+            }
+        }
+    }
+}

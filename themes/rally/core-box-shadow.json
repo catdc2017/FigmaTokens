@@ -1,0 +1,46 @@
+{
+  "core": {
+    "boxShadow": {
+      "flat": {
+        "value": "0px 0px 0px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow flat"
+      },
+      "lowest": {
+        "value": "0px 1px 4px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow lowest"
+      },
+      "low": {
+        "value": "0px 2px 6px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow low"
+      },
+      "lowMed": {
+        "value": "0px 4px 8px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow low-med"
+      },
+      "med": {
+        "value": "0px 4px 12px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow med"
+      },
+      "high": {
+        "value": "0px 4px 16px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow high"
+      },
+      "higher": {
+        "value": "0px 6px 20px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow higher"
+      },
+      "highest": {
+        "value": "0px 8px 24px rgba(25, 25, 26, 0.16)",
+        "type": "boxShadow",
+        "description": "Rally box shadow highest"
+      }
+    }
+  }
+}

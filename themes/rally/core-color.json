@@ -1,0 +1,454 @@
+{
+    "core": {
+        "color": {
+            "brand": {
+                "0": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 0"
+                },
+                "5": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 20"
+                },
+                "30": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 30"
+                },
+                "40": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 40"
+                },
+                "50": {
+                    "value": "#F26C32",
+                    "type": "color",
+                    "description": "Rally Brand 50"
+                },
+                "60": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 60"
+                },
+                "70": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 70"
+                },
+                "80": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 80"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 100"
+                },
+                "110": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 110"
+                },
+                "120": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Brand 120"
+                }
+            },
+            "primary": {
+                "0": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Primary 0"
+                },
+                "5": {
+                    "value": "#E5F7FC",
+                    "type": "color",
+                    "description": "Rally Primary 5"
+                },
+                "10": {
+                    "value": "#D4F9FF",
+                    "type": "color",
+                    "description": "Rally Primary 10"
+                },
+                "20": {
+                    "value": "#A5DBE9",
+                    "type": "color",
+                    "description": "Rally Primary 20"
+                },
+                "30": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Primary 30"
+                },
+                "40": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Primary 40"
+                },
+                "50": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Primary 50"
+                },
+                "60": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Primary 60"
+                },
+                "70": {
+                    "value": "#007897",
+                    "type": "color",
+                    "description": "Rally Primary 70"
+                },
+                "80": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Primary 80"
+                },
+                "90": {
+                    "value": "#006783",
+                    "type": "color",
+                    "description": "Rally Primary 90"
+                },
+                "100": {
+                    "value": "#005469",
+                    "type": "color",
+                    "description": "Rally Primary 100"
+                },
+                "110": {
+                    "value": "#004759",
+                    "type": "color",
+                    "description": "Rally Primary 110"
+                },
+                "120": {
+                    "value": "#003D4D",
+                    "type": "color",
+                    "description": "Rally Primary 120"
+                }
+            },
+            "secondary": {
+                "0": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 0"
+                },
+                "5": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 20"
+                },
+                "30": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 30"
+                },
+                "40": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Primary 40"
+                },
+                "50": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 50"
+                },
+                "60": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 60"
+                },
+                "70": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 70"
+                },
+                "80": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 80"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 100"
+                },
+                "110": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 110"
+                },
+                "120": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Secondary 120"
+                }
+            },
+            "accent": {
+                "01": {
+                    "value": "#EFE0FA",
+                    "type": "color",
+                    "description": "Rally Accent 01"
+                },
+                "02": {
+                    "value": "#422C88",
+                    "type": "color",
+                    "description": "Rally Accent 02"
+                },
+                "03": {
+                    "value": "#BF3E07",
+                    "type": "color",
+                    "description": "Rally Accent 03"
+                },
+                "04": {
+                    "value": "#8C2900",
+                    "type": "color",
+                    "description": "Rally Accent 04"
+                },
+                "05": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Accent 05"
+                },
+                "06": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Accent 06"
+                }
+            },
+            "neutral": {
+                "0": {
+                    "value": "#FFFFFF",
+                    "type": "color",
+                    "description": "Rally Neutral 0"
+                },
+                "5": {
+                    "value": "#FAFAFA",
+                    "type": "color",
+                    "description": "Rally Neutral 5"
+                },
+                "10": {
+                    "value": "#F3F3F3",
+                    "type": "color",
+                    "description": "Rally Neutral 10"
+                },
+                "20": {
+                    "value": "#E5E5E6",
+                    "type": "color",
+                    "description": "Rally Neutral 20"
+                },
+                "30": {
+                    "value": "#CBCCCD",
+                    "type": "color",
+                    "description": "Rally Neutral 30"
+                },
+                "40": {
+                    "value": "#B1B2B4",
+                    "type": "color",
+                    "description": "Rally Neutral 40"
+                },
+                "50": {
+                    "value": "#929496",
+                    "type": "color",
+                    "description": "Rally Neutral 50"
+                },
+                "60": {
+                    "value": "#7D7F81",
+                    "type": "color",
+                    "description": "Rally Neutral 60"
+                },
+                "70": {
+                    "value": "#6D6F70",
+                    "type": "color",
+                    "description": "Rally Neutral 70"
+                },
+                "80": {
+                    "value": "#4B4D4F",
+                    "type": "color",
+                    "description": "Rally Neutral 80"
+                },
+                "90": {
+                    "value": "#323334",
+                    "type": "color",
+                    "description": "Rally Neutral 90"
+                },
+                "100": {
+                    "value": "#212223",
+                    "type": "color",
+                    "description": "Rally Neutral 100"
+                },
+                "110": {
+                    "value": "25, 25, 26",
+                    "type": "color",
+                    "description": "Rally Neutral 110"
+                },
+                "120": {
+                    "value": "#000000",
+                    "type": "color",
+                    "description": "Rally Neutral 120"
+                }
+            },
+            "success": {
+                "5": {
+                    "value": "#EFF6EF",
+                    "type": "color",
+                    "description": "Rally Semantic Success 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Success 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Success 20"
+                },
+                "70": {
+                    "value": "#007000",
+                    "type": "color",
+                    "description": "Rally Semantic Success 70"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Success 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Success 100"
+                }
+            },
+            "danger": {
+                "5": {
+                    "value": "#FCF0F0",
+                    "type": "color",
+                    "description": "Rally Semantic Danger 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Danger 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Danger 20"
+                },
+                "70": {
+                    "value": "#C40000",
+                    "type": "color",
+                    "description": "Rally Semantic Danger 70"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Danger 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Danger 100"
+                }
+            },
+            "warning": {
+                "5": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Rally Semantic Warning 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Warning 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Warning 20"
+                },
+                "70": {
+                    "value": "#F5B700",
+                    "type": "color",
+                    "description": "Rally Semantic Warning 70"
+                },
+                "90": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Warning 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Warning 100"
+                }
+            },
+            "info": {
+                "5": {
+                    "value": "#E5F8FB",
+                    "type": "color",
+                    "description": "Rally Semantic Info 5"
+                },
+                "10": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Info 10"
+                },
+                "20": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Info 20"
+                },
+                "70": {
+                    "value": "#002677",
+                    "type": "color",
+                    "description": "Rally Semantic Info 70"
+                },
+                "90": {
+                    "value": "#FEF9EA",
+                    "type": "color",
+                    "description": "Rally Semantic Info 90"
+                },
+                "100": {
+                    "value": "",
+                    "type": "color",
+                    "description": "Rally Semantic Info 100"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,35 @@
+/* Custom fonts for UHC Theme */
+
+@font-face {
+    font-family: 'UHC Sans';
+    src: url('/fonts/uhc-solas/UHCSans-Medium.eot') format('woff2'),
+        /* Newest Modern Browsers */ url('/fonts/uhc-solas/UHCSans-Medium.woff') format('woff'),
+        /* Pretty Modern Browsers */ url('/fonts/uhc-solas/UHCSans-Medium.otf') format('otf'),
+        /* Safari, Android, iOS and most browsers */ url('/fonts/uhc-solas/UHCSans-Medium.ttf') format('ttf'),
+        /* Safari, Android, iOS and most browsers */ url('/fonts/uhc-solas/UHCSans-Medium.svg') format('svg'),
+        /* Legacy iOS */ url('/fonts/uhc-solas/UHCSans-Medium.eot') format('eot'); /* IE9 Compat Modes */
+}
+
+/* Font weight & style applied to allow mapping to UHC Sans Bold */
+
+@font-face {
+    font-family: 'UHC Sans';
+    src: url('/fonts/uhc-solas/UHCSans-Medium.eot') format('woff2'),
+        url('/fonts/uhc-solas/UHCSans-Bold.woff') format('woff'),
+        url('/fonts/uhc-solas/UHCSans-Bold.otf') format('otf'), url('/fonts/uhc-solas/UHCSans-Bold.ttf') format('ttf'),
+        url('/fonts/uhc-solas/UHCSans-Bold.svg') format('svg'), url('/fonts/uhc-solas/UHCSans-Bold.eot') format('eot');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UHC Serif Headline Semibold';
+    src: url('/fonts/fonts/uhc-solas/UHCSerifHeadline-Semibold.woff2') format('woff2'),
+        url('/fonts/uhc-solas/UHCSerifHeadline-Semibold.woff') format('woff'),
+        url('/fonts/uhc-solas/UHCSerifHeadline-Semibold.otf') format('otf'),
+        url('/fonts/uhc-solas/UHCSerifHeadline-Semibold.ttf') format('ttf'),
+        url('/fonts/uhc-solas/UHCSerifHeadline-Semibold.svg') format('svg'),
+        url('/fonts/uhc-solas/UHCSerifHeadline-Semibold.eot') format('eot');
+}
+
+/* End of custom fonts for UHC Theme */

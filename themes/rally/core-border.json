@@ -1,0 +1,90 @@
+{
+    "core": {
+        "border": {
+            "width": {
+                "1": {
+                    "value": "1px",
+                    "type": "borderWidth",
+                    "description": "Rally border width 1"
+                },
+                "2": {
+                    "value": "2px",
+                    "type": "borderWidth",
+                    "description": "Rally border width 2"
+                },
+                "3": {
+                    "value": "3px",
+                    "type": "borderWidth",
+                    "description": "Rally border width 3"
+                },
+                "4": {
+                    "value": "4px",
+                    "type": "borderWidth",
+                    "description": "Rally border width 4"
+                },
+                "5": {
+                    "value": "5px",
+                    "type": "borderWidth",
+                    "description": "Rally border width 5"
+                },
+                "6": {
+                    "value": "8px",
+                    "type": "borderWidth",
+                    "description": "Rally border width 3"
+                }
+            },
+            "radius": {
+                "1": {
+                    "value": "0",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 1"
+                },
+                "2": {
+                    "value": "2px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 2"
+                },
+                "3": {
+                    "value": "4px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 3"
+                },
+                "4": {
+                    "value": "8px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 4"
+                },
+                "5": {
+                    "value": "12px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 5"
+                },
+                "6": {
+                    "value": "20px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 6"
+                },
+                "7": {
+                    "value": "24px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 7"
+                },
+                "8": {
+                    "value": "28px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 8"
+                },
+                "9": {
+                    "value": "60px",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 9"
+                },
+                "10": {
+                    "value": "50%",
+                    "type": "borderRadius",
+                    "description": "Rally border radius 9"
+                }
+            }
+        }
+    }
+}
