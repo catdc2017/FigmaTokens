@@ -6,16 +6,21 @@ const tokenPrefix = 'bui';
 
 // FUNCTION TO FILTER ALIAS TOKENS FROM FILE OUTPUT
 StyleDictionaryPackage.registerFilter({
-    name: 'filter-alias',
+    name: 'filter-core-undefined',
     matcher: function (prop) {
-        return prop.attributes.category !== 'alias';
+        return prop.attributes.category !== 'core' && prop.value !== '';
     },
 });
 
 // HAVE THE STYLE DICTIONARY CONFIG DYNAMICALLY GENERATED
 function getStyleDictionaryConfig(brand, platform) {
     return {
-        source: [`src/themes/${brand}/*.json`, 'src/design-tokens/**/*.json'],
+        source: [
+            `src/themes/${brand}/*.json`,
+            `src/themes/${brand}/application/*.json`,
+            `src/themes/${brand}/component/*.json`,
+            'src/design-tokens/**/*.json',
+        ],
         platforms: {
             scss: {
                 prefix: `${tokenPrefix}`,
@@ -25,7 +30,7 @@ function getStyleDictionaryConfig(brand, platform) {
                     {
                         destination: '_variables.scss',
                         format: 'scss/variables',
-                        filter: 'filter-alias',
+                        filter: 'filter-core-undefined',
                     },
                 ],
             },
@@ -37,7 +42,7 @@ function getStyleDictionaryConfig(brand, platform) {
                     {
                         destination: '_variables.less',
                         format: 'less/variables',
-                        filter: 'filter-alias',
+                        filter: 'filter-core-undefined',
                     },
                 ],
             },
@@ -49,7 +54,7 @@ function getStyleDictionaryConfig(brand, platform) {
                     {
                         destination: '_variables.css',
                         format: 'css/variables',
-                        filter: 'filter-alias',
+                        filter: 'filter-core-undefined',
                     },
                 ],
             },

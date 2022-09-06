@@ -1,27 +1,45 @@
 {
-    "name": "@uitk/themes",
-    "version": "3.0.0-alpha.56",
+    "name": "@better-ui/foundations",
+    "version": "1.0.0-alpha.10",
+    "description": "Better.UI Design System tokens.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/uhg-internal/better-ui-foundations.git"
+    },
+    "author": {
+        "name": "Better.UI Team",
+        "email": "unicron-engineers@rallyhealth.com",
+        "url": "https://github.com/orgs/uhg-internal/teams/better-ui"
+    },
+    "bugs": {
+        "url": "https://github.com/uhg-internal/better-ui-foundations/issues"
+    },
+    "homepage": "https://github.com/uhg-internal/better-ui-foundations#readme",
+    "publishConfig": {
+        "registry": "https://repo1.uhc.com/artifactory/api/npm/npm-virtual"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "build": "npm install && node sd-build.js && npm run copy-less:optum && npm run copy-fonts:optum && npm run copy-less:uhc-solas && npm run copy-fonts:uhc-solas && npm run copy-export-cjs && npm run copy-export-esm && npm run copy-export:types && cp package.json dist ",
+        "build": "npm install && node sd-build.js && npm run copy-font-css:optum && npm run copy-fonts:optum && npm run copy-font-css:rally && npm run copy-fonts:rally && npm run copy-font-css:uhc-solas && npm run copy-fonts:uhc-solas && npm run copy-export-cjs && npm run copy-export-esm && npm run copy-export:types && cp package.json dist ",
         "build:types": "tsc",
         "copy-export:types": "cp -R src/defaultExport.d.ts dist/index.d.ts",
         "copy-export-cjs": "cp -R src/defaultExport.cjs.js dist/index.cjs.js",
         "copy-export-esm": "cp -R src/defaultExport.esm.js dist/index.esm.js",
         "copy-fonts:optum": "cp -R src/themes/optum/fonts dist/optum/fonts",
-        "copy-less:optum": "cp -R src/themes/optum/fonts.css dist/optum",
+        "copy-font-css:optum": "cp -R src/themes/optum/fonts.css dist/optum",
+        "copy-fonts:rally": "cp -R src/themes/rally/fonts dist/rally/fonts",
+        "copy-font-css:rally": "cp -R src/themes/rally/fonts.css dist/rally",
         "copy-fonts:uhc-solas": "cp -R src/themes/uhc-solas/fonts dist/uhc-solas/fonts",
-        "copy-less:uhc-solas": "cp -R src/themes/uhc-solas/fonts.css dist/uhc-solas",
-        "deploy-archive": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@uitk",
-        "deploy-archive-beta": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@uitk --tag beta",
-        "deploy-archive-alpha": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@uitk --tag alpha"
+        "copy-font-css:uhc-solas": "cp -R src/themes/uhc-solas/fonts.css dist/uhc-solas",
+        "deploy-archive": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@better-ui",
+        "deploy-archive-beta": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@better-ui --tag beta",
+        "deploy-archive-alpha": "npm publish ./dist --registry https://repo1.uhc.com/artifactory/api/npm/npm-local --scope=@better-ui --tag alpha"
     },
     "types": "index.d.ts",
     "main": "index.esm.js",
     "browser": "index.cjs.js",
     "module": "index.esm.js",
-    "author": "",
-    "license": "ISC",
+    "license": "APACHE 2",
     "devDependencies": {
         "lodash": "^4.17.19",
         "rimraf": "^2.6.3",
